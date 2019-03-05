@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas M. Henderson on Matthias Degroote</title>
+    <link>https://mfdgroot.github.io/authors/thomas-m.-henderson/</link>
+    <description>Recent content in Thomas M. Henderson on Matthias Degroote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Feb 2017 10:23:26 -0500</lastBuildDate>
+    
+	<atom:link href="https://mfdgroot.github.io/authors/thomas-m.-henderson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lipkin</title>
+      <link>https://mfdgroot.github.io/publication/lipkin/</link>
+      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
+      
+      <guid>https://mfdgroot.github.io/publication/lipkin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

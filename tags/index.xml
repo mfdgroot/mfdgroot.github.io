@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Matthias Degroote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Dec 2018 18:50:49 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2017 10:23:26 -0500</lastBuildDate>
     
 	<atom:link href="https://mfdgroot.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lipkin</title>
+      <link>https://mfdgroot.github.io/tags/lipkin/</link>
+      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
+      
+      <guid>https://mfdgroot.github.io/tags/lipkin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantum Chemistry</title>
@@ -26,6 +35,15 @@
       <pubDate>Fri, 28 Dec 2018 18:50:49 -0500</pubDate>
       
       <guid>https://mfdgroot.github.io/tags/quantum-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symmetry breaking and restoration</title>
+      <link>https://mfdgroot.github.io/tags/symmetry-breaking-and-restoration/</link>
+      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
+      
+      <guid>https://mfdgroot.github.io/tags/symmetry-breaking-and-restoration/</guid>
       <description></description>
     </item>
     
