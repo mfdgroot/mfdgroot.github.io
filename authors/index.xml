@@ -6,10 +6,19 @@
     <description>Recent content in Authors on Matthias Degroote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Dec 2018 18:50:49 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 20:43:13 -0400</lastBuildDate>
     
 	<atom:link href="https://mfdgroot.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Matthias Degroote</title>
+      <link>https://mfdgroot.github.io/authors/matthias-degroote/</link>
+      <pubDate>Sat, 27 Apr 2019 20:43:13 -0400</pubDate>
+      
+      <guid>https://mfdgroot.github.io/authors/matthias-degroote/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alán Aspuru-Guzik</title>
@@ -30,38 +39,11 @@
     </item>
     
     <item>
-      <title>Gustavo E. Scuseria</title>
-      <link>https://mfdgroot.github.io/authors/gustavo-e.-scuseria/</link>
-      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
-      
-      <guid>https://mfdgroot.github.io/authors/gustavo-e.-scuseria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ian D. Kivlichan</title>
       <link>https://mfdgroot.github.io/authors/ian-d.-kivlichan/</link>
       <pubDate>Fri, 28 Dec 2018 18:50:49 -0500</pubDate>
       
       <guid>https://mfdgroot.github.io/authors/ian-d.-kivlichan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jacob M. Wahlen-Strothman</title>
-      <link>https://mfdgroot.github.io/authors/jacob-m.-wahlen-strothman/</link>
-      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
-      
-      <guid>https://mfdgroot.github.io/authors/jacob-m.-wahlen-strothman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jinmo Zhao</title>
-      <link>https://mfdgroot.github.io/authors/jinmo-zhao/</link>
-      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
-      
-      <guid>https://mfdgroot.github.io/authors/jinmo-zhao/</guid>
       <description></description>
     </item>
     
@@ -84,38 +66,11 @@
     </item>
     
     <item>
-      <title>Jorge Dukelsky</title>
-      <link>https://mfdgroot.github.io/authors/jorge-dukelsky/</link>
-      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
-      
-      <guid>https://mfdgroot.github.io/authors/jorge-dukelsky/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Libor Veis</title>
       <link>https://mfdgroot.github.io/authors/libor-veis/</link>
       <pubDate>Fri, 28 Dec 2018 18:50:49 -0500</pubDate>
       
       <guid>https://mfdgroot.github.io/authors/libor-veis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matthew R. Hermes</title>
-      <link>https://mfdgroot.github.io/authors/matthew-r.-hermes/</link>
-      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
-      
-      <guid>https://mfdgroot.github.io/authors/matthew-r.-hermes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matthias Degroote</title>
-      <link>https://mfdgroot.github.io/authors/matthias-degroote/</link>
-      <pubDate>Sat, 27 Apr 2019 20:43:13 -0400</pubDate>
-      
-      <guid>https://mfdgroot.github.io/authors/matthias-degroote/</guid>
       <description></description>
     </item>
     
@@ -156,15 +111,6 @@
     </item>
     
     <item>
-      <title>Thomas M. Henderson</title>
-      <link>https://mfdgroot.github.io/authors/thomas-m.-henderson/</link>
-      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
-      
-      <guid>https://mfdgroot.github.io/authors/thomas-m.-henderson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tim Menke</title>
       <link>https://mfdgroot.github.io/authors/tim-menke/</link>
       <pubDate>Fri, 28 Dec 2018 18:50:49 -0500</pubDate>
@@ -174,20 +120,74 @@
     </item>
     
     <item>
-      <title>Yiheng Qiu</title>
-      <link>https://mfdgroot.github.io/authors/yiheng-qiu/</link>
-      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
-      
-      <guid>https://mfdgroot.github.io/authors/yiheng-qiu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yudong Cao</title>
       <link>https://mfdgroot.github.io/authors/yudong-cao/</link>
       <pubDate>Fri, 28 Dec 2018 18:50:49 -0500</pubDate>
       
       <guid>https://mfdgroot.github.io/authors/yudong-cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gustavo E. Scuseria</title>
+      <link>https://mfdgroot.github.io/authors/gustavo-e.-scuseria/</link>
+      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
+      
+      <guid>https://mfdgroot.github.io/authors/gustavo-e.-scuseria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob M. Wahlen-Strothman</title>
+      <link>https://mfdgroot.github.io/authors/jacob-m.-wahlen-strothman/</link>
+      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
+      
+      <guid>https://mfdgroot.github.io/authors/jacob-m.-wahlen-strothman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinmo Zhao</title>
+      <link>https://mfdgroot.github.io/authors/jinmo-zhao/</link>
+      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
+      
+      <guid>https://mfdgroot.github.io/authors/jinmo-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jorge Dukelsky</title>
+      <link>https://mfdgroot.github.io/authors/jorge-dukelsky/</link>
+      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
+      
+      <guid>https://mfdgroot.github.io/authors/jorge-dukelsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew R. Hermes</title>
+      <link>https://mfdgroot.github.io/authors/matthew-r.-hermes/</link>
+      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
+      
+      <guid>https://mfdgroot.github.io/authors/matthew-r.-hermes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas M. Henderson</title>
+      <link>https://mfdgroot.github.io/authors/thomas-m.-henderson/</link>
+      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
+      
+      <guid>https://mfdgroot.github.io/authors/thomas-m.-henderson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yiheng Qiu</title>
+      <link>https://mfdgroot.github.io/authors/yiheng-qiu/</link>
+      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
+      
+      <guid>https://mfdgroot.github.io/authors/yiheng-qiu/</guid>
       <description></description>
     </item>
     

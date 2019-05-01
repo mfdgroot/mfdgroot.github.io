@@ -1,405 +1,327 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/talk/vbff/</loc>
-      <lastmod>2019-04-27T20:43:13-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/hero_carousel/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/talk/segal/</loc>
-      <lastmod>2019-03-13T12:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/hero/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/talk/postdoc/</loc>
-      <lastmod>2019-02-20T11:29:59-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/about/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/publication/chemrev/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/skills/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/publication/lipkin/</loc>
-      <lastmod>2017-02-07T10:23:26-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/experience/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/author/matthias/</loc>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/accomplishments/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/publication_types/2/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/publications_featured/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/al%C3%A1n-aspuru-guzik/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/publications/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/author/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/talks_featured/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/talks/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/borja-peropadre/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/posts/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/projects/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/gustavo-e.-scuseria/</loc>
-      <lastmod>2017-02-07T10:23:26-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/teaching/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/ian-d.-kivlichan/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/tags/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/jacob-m.-wahlen-strothman/</loc>
-      <lastmod>2017-02-07T10:23:26-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/home/contact/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/jinmo-zhao/</loc>
-      <lastmod>2017-02-07T10:23:26-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/authors/</loc>
+    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/jonathan-p.-olson/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/authors/matthias-degroote/</loc>
+    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/jonathan-romero/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/</loc>
+    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/jorge-dukelsky/</loc>
-      <lastmod>2017-02-07T10:23:26-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/talk/</loc>
+    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/libor-veis/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/tags/</loc>
+    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/tags/lipkin/</loc>
-      <lastmod>2017-02-07T10:23:26-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/talk/vbff/</loc>
+    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/matthew-r.-hermes/</loc>
-      <lastmod>2017-02-07T10:23:26-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/tags/algorithm/</loc>
+    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/</loc>
-      <lastmod>2019-04-27T20:43:13-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/tags/gan/</loc>
+    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/matthias-degroote/</loc>
-      <lastmod>2019-04-27T20:43:13-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/tags/quantum-computing/</loc>
+    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/m%C3%A1ria-kieferov%C3%A1/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/talk/segal/</loc>
+    <lastmod>2019-03-13T12:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/nicolas-p.d.-sawaya/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/talk/postdoc/</loc>
+    <lastmod>2019-02-20T11:29:59-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/peter-d.-johnson/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/tags/postdocs/</loc>
+    <lastmod>2019-02-20T11:29:59-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/post/</loc>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/tags/seminar/</loc>
+    <lastmod>2019-02-20T11:29:59-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/publication_types/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/tags/spc/</loc>
+    <lastmod>2019-02-20T11:29:59-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/publication/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/publication_types/2/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/tags/quantum-chemistry/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/authors/al%C3%A1n-aspuru-guzik/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/tags/quantum-computing/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/authors/borja-peropadre/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/talk/</loc>
-      <lastmod>2019-04-27T20:43:13-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/authors/ian-d.-kivlichan/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/sukin-sim/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/authors/jonathan-p.-olson/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/tags/symmetry-breaking-and-restoration/</loc>
-      <lastmod>2017-02-07T10:23:26-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/authors/jonathan-romero/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/tags/</loc>
-      <lastmod>2017-02-07T10:23:26-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/authors/libor-veis/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/thomas-m.-henderson/</loc>
-      <lastmod>2017-02-07T10:23:26-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/authors/m%C3%A1ria-kieferov%C3%A1/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/tim-menke/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/authors/nicolas-p.d.-sawaya/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/yiheng-qiu/</loc>
-      <lastmod>2017-02-07T10:23:26-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/authors/peter-d.-johnson/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/authors/yudong-cao/</loc>
-      <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/publication_types/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/tags/algorithm/</loc>
-      <lastmod>2019-04-27T20:43:13-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/publication/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/tags/gan/</loc>
-      <lastmod>2019-04-27T20:43:13-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/tags/quantum-chemistry/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/tags/postdocs/</loc>
-      <lastmod>2019-02-20T11:29:59-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/publication/chemrev/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/tags/quantum-computing/</loc>
-      <lastmod>2019-04-27T20:43:13-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/authors/sukin-sim/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/tags/seminar/</loc>
-      <lastmod>2019-02-20T11:29:59-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/authors/tim-menke/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mfdgroot.github.io/tags/spc/</loc>
-      <lastmod>2019-02-20T11:29:59-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mfdgroot.github.io/authors/yudong-cao/</loc>
+    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/authors/gustavo-e.-scuseria/</loc>
+    <lastmod>2017-02-07T10:23:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/authors/jacob-m.-wahlen-strothman/</loc>
+    <lastmod>2017-02-07T10:23:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/authors/jinmo-zhao/</loc>
+    <lastmod>2017-02-07T10:23:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/authors/jorge-dukelsky/</loc>
+    <lastmod>2017-02-07T10:23:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/tags/lipkin/</loc>
+    <lastmod>2017-02-07T10:23:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/authors/matthew-r.-hermes/</loc>
+    <lastmod>2017-02-07T10:23:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/publication/lipkin/</loc>
+    <lastmod>2017-02-07T10:23:26-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/tags/symmetry-breaking-and-restoration/</loc>
+    <lastmod>2017-02-07T10:23:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/authors/thomas-m.-henderson/</loc>
+    <lastmod>2017-02-07T10:23:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/authors/yiheng-qiu/</loc>
+    <lastmod>2017-02-07T10:23:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/author/matthias/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/home/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/post/</loc>
+  </url>
   
 </urlset>
