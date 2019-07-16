@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Matthias Degroote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Apr 2019 20:43:13 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2019 18:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://mfdgroot.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neuromorphic Networks</title>
+      <link>https://mfdgroot.github.io/tags/neuromorphic-networks/</link>
+      <pubDate>Mon, 15 Jul 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://mfdgroot.github.io/tags/neuromorphic-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Machine Learning</title>
+      <link>https://mfdgroot.github.io/tags/quantum-machine-learning/</link>
+      <pubDate>Mon, 15 Jul 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://mfdgroot.github.io/tags/quantum-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantum computing</title>
+      <link>https://mfdgroot.github.io/tags/quantum-computing/</link>
+      <pubDate>Mon, 15 Jul 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://mfdgroot.github.io/tags/quantum-computing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>algorithm</title>
@@ -26,15 +53,6 @@
       <pubDate>Sat, 27 Apr 2019 20:43:13 -0400</pubDate>
       
       <guid>https://mfdgroot.github.io/tags/gan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>quantum computing</title>
-      <link>https://mfdgroot.github.io/tags/quantum-computing/</link>
-      <pubDate>Sat, 27 Apr 2019 20:43:13 -0400</pubDate>
-      
-      <guid>https://mfdgroot.github.io/tags/quantum-computing/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in Alán Aspuru-Guzik on Matthias Degroote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Dec 2018 18:50:49 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2019 18:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://mfdgroot.github.io/authors/al%C3%A1n-aspuru-guzik/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An Artificial Quantum Spiking Neuron</title>
+      <link>https://mfdgroot.github.io/publication/artificial-spiking-quantum-neuron/</link>
+      <pubDate>Mon, 15 Jul 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://mfdgroot.github.io/publication/artificial-spiking-quantum-neuron/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantum Chemistry in the Age of Quantum Computing</title>

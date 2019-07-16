@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Wittek on Matthias Degroote</title>
+    <link>https://mfdgroot.github.io/authors/peter-wittek/</link>
+    <description>Recent content in Peter Wittek on Matthias Degroote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jul 2019 18:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://mfdgroot.github.io/authors/peter-wittek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Artificial Quantum Spiking Neuron</title>
+      <link>https://mfdgroot.github.io/publication/artificial-spiking-quantum-neuron/</link>
+      <pubDate>Mon, 15 Jul 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://mfdgroot.github.io/publication/artificial-spiking-quantum-neuron/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

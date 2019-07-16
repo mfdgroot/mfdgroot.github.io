@@ -3,32 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mfdgroot.github.io/publication_types/2/</loc>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/authors/al%C3%A1n-aspuru-guzik/</loc>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/publication/artificial-spiking-quantum-neuron/</loc>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mfdgroot.github.io/authors/</loc>
-    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/authors/lasse-bj%C3%B8rn-kristensen/</loc>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mfdgroot.github.io/authors/matthias-degroote/</loc>
-    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mfdgroot.github.io/</loc>
-    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/tags/neuromorphic-networks/</loc>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/authors/nikolaj-t.-zinner/</loc>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/authors/peter-wittek/</loc>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/publication_types/</loc>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/publication/</loc>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/tags/quantum-machine-learning/</loc>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/tags/</loc>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/tags/quantum-computing/</loc>
+    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mfdgroot.github.io/talk/</loc>
     <lastmod>2019-04-27T20:43:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mfdgroot.github.io/tags/</loc>
-    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -44,12 +108,6 @@
   
   <url>
     <loc>https://mfdgroot.github.io/tags/gan/</loc>
-    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mfdgroot.github.io/tags/quantum-computing/</loc>
     <lastmod>2019-04-27T20:43:13-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -79,18 +137,6 @@
   <url>
     <loc>https://mfdgroot.github.io/tags/spc/</loc>
     <lastmod>2019-02-20T11:29:59-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mfdgroot.github.io/publication_types/2/</loc>
-    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mfdgroot.github.io/authors/al%C3%A1n-aspuru-guzik/</loc>
-    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -140,17 +186,6 @@
     <loc>https://mfdgroot.github.io/authors/peter-d.-johnson/</loc>
     <lastmod>2018-12-28T18:50:49-05:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mfdgroot.github.io/publication_types/</loc>
-    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mfdgroot.github.io/publication/</loc>
-    <lastmod>2018-12-28T18:50:49-05:00</lastmod>
   </url>
   
   <url>
