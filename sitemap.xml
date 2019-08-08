@@ -3,6 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mfdgroot.github.io/talk/spikingneuron/</loc>
+    <lastmod>2019-08-08T14:30:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/authors/</loc>
+    <lastmod>2019-08-08T14:30:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/authors/matthias-degroote/</loc>
+    <lastmod>2019-08-08T14:30:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/</loc>
+    <lastmod>2019-08-08T14:30:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/tags/quantum-spiking-neuron/</loc>
+    <lastmod>2019-08-08T14:30:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/talk/</loc>
+    <lastmod>2019-08-08T14:30:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/tags/</loc>
+    <lastmod>2019-08-08T14:30:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/tags/group-meeting/</loc>
+    <lastmod>2019-08-08T14:30:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/tags/neuromorphic/</loc>
+    <lastmod>2019-08-08T14:30:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mfdgroot.github.io/tags/quantum-computing/</loc>
+    <lastmod>2019-08-08T14:30:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mfdgroot.github.io/publication_types/2/</loc>
     <lastmod>2019-07-15T18:00:00-04:00</lastmod>
     <priority>0</priority>
@@ -20,25 +78,7 @@
   </url>
   
   <url>
-    <loc>https://mfdgroot.github.io/authors/</loc>
-    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mfdgroot.github.io/authors/lasse-bj%C3%B8rn-kristensen/</loc>
-    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mfdgroot.github.io/authors/matthias-degroote/</loc>
-    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mfdgroot.github.io/</loc>
     <lastmod>2019-07-15T18:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -76,23 +116,6 @@
     <loc>https://mfdgroot.github.io/tags/quantum-machine-learning/</loc>
     <lastmod>2019-07-15T18:00:00-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mfdgroot.github.io/tags/</loc>
-    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mfdgroot.github.io/tags/quantum-computing/</loc>
-    <lastmod>2019-07-15T18:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mfdgroot.github.io/talk/</loc>
-    <lastmod>2019-04-27T20:43:13-04:00</lastmod>
   </url>
   
   <url>
