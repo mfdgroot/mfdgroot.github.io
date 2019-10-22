@@ -6,10 +6,19 @@
     <description>Recent content on Matthias Degroote</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Sep 2019 15:25:00 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 20:00:00 -0400</lastBuildDate>
     
 	    <atom:link href="https://mfdgroot.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Inside the latent space of a quantum autoencoder</title>
+      <link>https://mfdgroot.github.io/talk/qtml/</link>
+      <pubDate>Mon, 21 Oct 2019 20:00:00 -0400</pubDate>
+      
+      <guid>https://mfdgroot.github.io/talk/qtml/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantum Chemistry on Near-Term Quantum Devices</title>
