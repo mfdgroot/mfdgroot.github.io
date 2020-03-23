@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantum Machine Learning on Matthias Degroote</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Quantum Machine Learning on Matthias Degroote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2019 20:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2020 18:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://mfdgroot.github.io/tags/quantum-machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quantum Computing and Data Science</title>
+      <link>https://mfdgroot.github.io/talk/dspe/</link>
+      <pubDate>Tue, 17 Mar 2020 18:00:00 -0400</pubDate>
+      
+      <guid>https://mfdgroot.github.io/talk/dspe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Inside the latent space of a quantum autoencoder</title>

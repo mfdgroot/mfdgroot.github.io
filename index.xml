@@ -6,98 +6,53 @@
     <description>Recent content on Matthias Degroote</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2019 20:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2020 18:00:00 -0400</lastBuildDate>
     
 	    <atom:link href="https://mfdgroot.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Inside the latent space of a quantum autoencoder</title>
-      <link>https://mfdgroot.github.io/talk/qtml/</link>
-      <pubDate>Mon, 21 Oct 2019 20:00:00 -0400</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://mfdgroot.github.io/talk/</link>
+      <pubDate>Tue, 17 Mar 2020 18:00:00 -0400</pubDate>
       
-      <guid>https://mfdgroot.github.io/talk/qtml/</guid>
+      <guid>https://mfdgroot.github.io/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Quantum Chemistry on Near-Term Quantum Devices</title>
-      <link>https://mfdgroot.github.io/talk/cecam/</link>
-      <pubDate>Sun, 15 Sep 2019 15:25:00 +0300</pubDate>
-      
-      <guid>https://mfdgroot.github.io/talk/cecam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Near-term Algorithms for Quantum Machine Learning</title>
-      <link>https://mfdgroot.github.io/talk/cqiqc/</link>
-      <pubDate>Thu, 29 Aug 2019 13:30:00 -0400</pubDate>
-      
-      <guid>https://mfdgroot.github.io/talk/cqiqc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Artificial Spiking Quantum Neuron</title>
-      <link>https://mfdgroot.github.io/talk/spikingneuron/</link>
-      <pubDate>Thu, 08 Aug 2019 14:30:00 -0500</pubDate>
-      
-      <guid>https://mfdgroot.github.io/talk/spikingneuron/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Artificial Quantum Spiking Neuron</title>
-      <link>https://mfdgroot.github.io/publication/artificial-spiking-quantum-neuron/</link>
+      <title>Publications</title>
+      <link>https://mfdgroot.github.io/publication/</link>
       <pubDate>Mon, 15 Jul 2019 18:00:00 -0400</pubDate>
       
-      <guid>https://mfdgroot.github.io/publication/artificial-spiking-quantum-neuron/</guid>
+      <guid>https://mfdgroot.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Vannevar Bush Faculty Fellowship Blitz Talk</title>
-      <link>https://mfdgroot.github.io/talk/vbff/</link>
-      <pubDate>Sat, 27 Apr 2019 20:43:13 -0400</pubDate>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mfdgroot.github.io/talk/vbff/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
-      <title>Segal group meeting</title>
-      <link>https://mfdgroot.github.io/talk/segal/</link>
-      <pubDate>Wed, 13 Mar 2019 12:00:00 -0400</pubDate>
+      <title>Authors</title>
+      <link>https://mfdgroot.github.io/author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mfdgroot.github.io/talk/segal/</guid>
+      <guid>https://mfdgroot.github.io/author/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Postdoc seminar</title>
-      <link>https://mfdgroot.github.io/talk/postdoc/</link>
-      <pubDate>Wed, 20 Feb 2019 11:29:59 -0500</pubDate>
+      <title>Posts</title>
+      <link>https://mfdgroot.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mfdgroot.github.io/talk/postdoc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantum Chemistry in the Age of Quantum Computing</title>
-      <link>https://mfdgroot.github.io/publication/chemrev/</link>
-      <pubDate>Fri, 28 Dec 2018 18:50:49 -0500</pubDate>
-      
-      <guid>https://mfdgroot.github.io/publication/chemrev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Merging symmetry projection methods with coupled cluster theory: Lessons from the Lipkin model Hamiltonian</title>
-      <link>https://mfdgroot.github.io/publication/lipkin/</link>
-      <pubDate>Tue, 07 Feb 2017 10:23:26 -0500</pubDate>
-      
-      <guid>https://mfdgroot.github.io/publication/lipkin/</guid>
+      <guid>https://mfdgroot.github.io/post/</guid>
       <description></description>
     </item>
     
